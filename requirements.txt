@@ -3,3 +3,4 @@ livereload
 myst-parser
 sphinx_rtd_theme
 sphinx_notfound_page
+sphinxawesome-theme
