@@ -13,7 +13,7 @@ on:
 jobs:
   docs:
   # deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     permissions:
       contents: write
     steps:
@@ -38,7 +38,7 @@ jobs:
           publish_branch: build-push
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: build/
-          destination_dir: staging/${{ github.event.number }}/
+          destination_dir: staging/${{ github.event.pull_request.number }}/
           force_orphan: true
 
       - name: Deploy Docs on Merge (Production)
