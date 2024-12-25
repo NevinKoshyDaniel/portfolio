@@ -3,6 +3,8 @@ name: Docs creationg
 on: 
   push:
     branches:
+      include:
+      - '*'
   pull_request: 
     branches: [gh-pages]
     types: [opened, synchronize, closed]
