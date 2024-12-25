@@ -28,11 +28,16 @@ jobs:
         run: |
           sphinx-build docs/ build/
 
-      - name: Deploy Docs
+      - name: Deploy Docs on Push
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.event_name == 'push' }}
+        with:
+          publish_branch: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: build/
+          force_orphan: true
 
-      - name: Deploy Docs 2
+      - name: Deploy Docs on Merge
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.event_name == 'pull_request' && github.ref == 'refs/heads/gh-pages' }}
 
