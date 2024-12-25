@@ -1,5 +1,8 @@
 name: Docs creation
 
+env:
+  PR_NUMBER: ${{ github.event.number }}
+
 on: 
   push:
     branches:
@@ -28,16 +31,17 @@ jobs:
         run: |
           sphinx-build docs/ build/
 
-      - name: Deploy Docs on Push
+      - name: Deploy Docs on Push (Staging)
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.event_name == 'push' }}
         with:
           publish_branch: build-push
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: build/
+          destination_dir: staging/${PR_NUMBER}/
           force_orphan: true
 
-      - name: Deploy Docs on Merge
+      - name: Deploy Docs on Merge (Production)
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.event_name == 'pull_request' && github.ref == 'refs/heads/gh-pages' }}
 
@@ -45,4 +49,5 @@ jobs:
           publish_branch: build-main
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: build/
+          destination_dir: /
           force_orphan: true
