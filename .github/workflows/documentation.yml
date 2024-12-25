@@ -38,7 +38,7 @@ jobs:
           publish_branch: build-push
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: build/
-          destination_dir: staging/${PR_NUMBER}/
+          destination_dir: staging/${ PR_NUMBER }/
           force_orphan: true
 
       - name: Deploy Docs on Merge (Production)
