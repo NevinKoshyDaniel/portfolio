@@ -2,30 +2,32 @@
 
 ## Jr R&D Engineer
 
-**Company**: Ekinops Networks India Pvt Ltf
+**Company**: Ekinops Networks India Pvt Ltd
 **Experience**: May 2023 to Current
 
 Full Time Employee
+
 November 2023 to Current
 
-• Led a cross-functional team of consultants to migrate critical product documentation post-acquisition, ensuring smooth integration into Ekinops' system. 
-• Oversaw the total transition to Doc as Code for all SDx & Cloud Products Documentation and actively helped in building the developer communities
-• Strong focus on GitOps and building developer centeric tooling
-• Built real-time monitoring dashboards using Grafana & Prometheus, enhancing system observability and operational efficiency by upto 45%.
-• Revamped middleware testing by converting legacy Bash scripts to JMeter, increasing test coverage and reliability.
-• Enabled batch job monitoring via Prometheus Pushgateway, improving visibility into CI/CD processes.
-• Working on GitOps automation with Ansible, Docker, and MariaDB, streamlining platform scalability and deployment processes.
-• Development of GitLab Pipeline for various CI/CD Pipelines, based on product requirements
-• Focusing on the integration of AI resources and tooling for Documentation and Docs tooling
-• Developed tooling based on Syft for cleaner and more detailed SBOM generation with enhanced safety compliance.
-• Engineered isolated, load-balanced CI environments by configuring NGINX reverse proxies, dynamic IP provisioning with Netplan, and dnsmasq for seamless host-to-runner DNS resolution in containerized networks.
+- Led a cross-functional team of consultants to migrate critical product documentation post-acquisition, ensuring smooth integration into Ekinops' system. 
+- Oversaw the total transition to Doc as Code for all SDx & Cloud Products Documentation and actively helped in building the developer communities
+- Strong focus on GitOps and building developer centeric tooling
+- Built real-time monitoring dashboards using Grafana & Prometheus, enhancing system observability and operational efficiency by upto 45%.
+- Revamped middleware testing by converting legacy Bash scripts to JMeter, increasing test coverage and reliability.
+- Enabled batch job monitoring via Prometheus Pushgateway, improving visibility into CI/CD processes.
+- Working on GitOps automation with Ansible, Docker, and MariaDB, streamlining platform scalability and deployment processes.
+- Development of GitLab Pipeline for various CI/CD Pipelines, based on product requirements
+- Focusing on the integration of AI resources and tooling for Documentation and Docs tooling
+- Developed tooling based on Syft for cleaner and more detailed SBOM generation with enhanced safety compliance.
+- Engineered isolated, load-balanced CI environments with NGINX reverse proxies and dynamic IP provisioning for seamless host-to-runner containerized networks.
 
 Community Management Consultant [Payroll from Clockhash Technologies]
-May to November 2023. 
 
-• Focused on Community Management Consulting
-• Led the transition to Docs-as-Code, improving documentation efficiency for all SDx & Cloud Products.
-• Optimized GitLab CI/CD pipelines, worked with automation of documentation builds & deployments, and management of DocasCode tooling on Gitlab
+May to November 2023.
+
+- Focused on Community Management Consulting
+- Led the transition to Docs-as-Code, improving documentation efficiency for all SDx & Cloud Products.
+- Optimized GitLab CI/CD pipelines, worked with automation of documentation builds & deployments, and management of DocasCode tooling on Gitlab
 
 ## Associate 2 - Product Engineer
 

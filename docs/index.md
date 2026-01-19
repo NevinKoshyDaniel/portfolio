@@ -20,8 +20,7 @@ Volunteering<volunteering>
 Education<education>
 Competitions<competitions>
 Job Profile<job_profile>
-Technical Skills<technical_skills>
-Soft Skills<soft_skills>
+Skills<technical_skills>
 ```
 
 <!-- Github Projects<../github_project/github_profile> -->

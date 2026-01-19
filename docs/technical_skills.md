@@ -16,7 +16,7 @@ I am well versed in the syntactical nuances of the these languages, and may requ
 Java was my first computer languages, and understanding of the OOPs paradigm, and C-family syntax helped a lot in picking up various other languages and technologies. I learned the language during summer break of 2016 and was also taught during in my high school CS. I have been keeping up with the major version changes from version 7 to the LTS versions of 8, 11, and 17. I have used it for engineering course work in Networking, OOPS and App Development.  
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5) 		![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)	![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
-I picked up the Web development during the summer of  2018, and have been tinkering around with vanilla JS as well as pure HTML+CSS based component creation. I am also familiar some of the popular front end and full stack frameworks.
+I picked up the Web development during the summer of  2018, and have been tinkering around with vanilla JS as well as pure HTML+CSS based component creation. I am also familiar some of the popular front end aDNS resolution innd full stack frameworks.
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 I learned the language as part of engineering academia, and have done most of the course in C, including using it for Data Structures and Algorithms implementations.
@@ -102,9 +102,14 @@ I have been tinkering around with ML side and have been focusing on generative c
 ### Other Technologies
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender) ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender) 
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![Syft](https://img.shields.io/badge/-Syft-000?&logo=Syft)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
-Docker has been used in Professional Environment, while Blender and Unity were used in creating a few hobby/ enthusiast projects and hackathons.
+Docker, Grafana, Prometheus, Syft and Redis have been used in Professional Environment, while Blender and Unity were used in creating a few hobby/ enthusiast projects and hackathons.
 
 ### Preferred Dev Environment
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu%20Linux-000?&logo=Ubuntu)   ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode)
