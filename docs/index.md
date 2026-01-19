@@ -22,6 +22,7 @@ Competitions<competitions>
 Job Profile<job_profile>
 Technical Skills<technical_skills>
 Soft Skills<soft_skills>
-Github Projects<../github_project/github_profile>
-Test Page<test_page>
 ```
+
+<!-- Github Projects<../github_project/github_profile> -->
+<!-- Test Page<test_page> -->

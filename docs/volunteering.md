@@ -2,7 +2,27 @@
 
 I am a Tech‑savvy individual with experience in community engagement through student volunteering initiatives. Experiences with activities such as team building, team bonding, program planning, organizing and execution have all helped me become more understanding, improve my people skills and empathy, as well as learning to be a better and more confident leader. It has also helped me get better with ideation, communication and dealing with unexpected and ambiguous scenarios.
 
-## College Time
+## As a working Professional
+
+### IEEE Computer Society Student & Young Professional (CS SYP) 
+
+**Role**: Media Manager
+**Tenure**: Feb 2025 - Present
+
+- Leading the team for the latest edition of CS SYP Compute and various media related activies
+- Organizing, planning and delegating various design tasks- Selected a team of designers for a design activities - Organizing, planning and delegating various design tasks
+
+### IEEE CS Compute
+
+**Role**: Social Media Manager
+**Tenure**: Mar 2024 - Jan 2025
+
+- Handled the media team for various social media activities
+- Revitalized the Social Media Handles of IEEE CS Compute
+- Planned various content series, and continuous content delivery
+- Managed the Social Media Handles of IEEE CS SYP Compute, and coordinated the respective designers to create regular content series for Linkedin and Instagram, effectively growing the audience and reach of the involved pages by 25%.
+
+## As a College Student
 
 ### State Level - Kerala
 #### IEEE Computer Science Society

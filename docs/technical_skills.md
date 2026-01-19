@@ -31,21 +31,19 @@ I started getting familiar with the SQL as I was picking up web development, and
 I got familiar with YAML as I was picking up Flutter, and got more versed in it using Docker and Azure Templating.
 
 #### Can Hack My Way Through
-I am able to easily comprehended these languages, and hack my way through them, albeit using a quick google search at most times.
+I am able to easily comprehended these languages, and hack my way through them, albeit using a quick google search or ai usage at most times.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 I was making using of the JavaScript Superset for some web development scenarios.
 ![C Sharp](https://img.shields.io/badge/-CSharp-000?&logo=Csharp)
 The similarities it shares with Java and C helped me use the language for some Augmented Reality & Mixed Reality projects as well as game dev.
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-I am picking up the language as a part time, and would love to extend more on it. It was a curiosity about the language that got me started, after I heard about it from recent Open Source project news and Github surveys.
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 I loved the simplistic syntax of Go, and the capabilities it possess. I am currently learning the language.
-
 
 ### Frameworks & Technologies
 
 #### Cloud Providers
+
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=00F)
 I have completed an internship that was a combined offering by the Ministry of Education of India and Microsoft.  I have excellent familiarity with the domain, and the technology stack, and have used it for a host of projects.
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-Cloud)
@@ -58,15 +56,18 @@ Entry level Familiarity with the technology.
 ### Databases
 
 #### SQL
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
+I have been using the DB as part of various professional tasks and am decently familar with the ins and outs it.
 ![Postgres-SQL]his is a practise project to get familiar with Sphinx Engine. (https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
-I had learned to use this DB as part of academia, and have used the technology in a professional capacity as well. 
+I had learned to use this as part of academia, and have used the technology in a professional capacity as well.
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-I have been tinkering with SQLite for various personal projects, and various hackathon solutions. 
+I have been tinkering with SQLite for various personal projects, and various hackathon solutions.
+
 
 #### NoSQL
 
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-I have been using MongoDB since college time and have been using it in a professional capability.
+I have been using MongoDB since college time and have used it in a professional capability.
 
 ### Backend as a Service
 
@@ -78,14 +79,15 @@ I have been moving into Supabase and using the open source to get familiar with 
 
 ### Web 
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Next JS](https://img.shields.io/badge/-NextJS-000?&logo=next.js) ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) 
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
 
 I have been tinkering around with various frameworks which make use of the NodeJs runtime, but I am most confident on Svelte and NextJS.
 
 ### Backend
 
-![Spring-Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django) ![ExpressJS](https://img.shields.io/badge/-ExpressJs-000?&logo=Express) ![Gunicorn](https://img.shields.io/badge/-Gunicorn-000?&logo=Gunicorn)  
-I have mainly used python based frameworks such as Django and Gunicorn in a professional setting, and I am equally comfortable on Spring Boot. I can use express in a decent capacity as well.
+![Spring-Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI) ![Gunicorn](https://img.shields.io/badge/-Gunicorn-000?&logo=Gunicorn)  
+I have mainly used python based frameworks such as Django, FastAPI and Gunicorn in a professional setting, and I am equally comfortable on Spring Boot. I can use express in a decent capacity as well.
 
 #### API Standards
 
