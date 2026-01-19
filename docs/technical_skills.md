@@ -1,4 +1,6 @@
-﻿# Technical Skills
+﻿# SKILLSET
+
+# Technical Skills
 
 Hi! I'm a person with a **variety** of technical and  technological skills. I have a bit of experience in various technical stacks, mainly in the domain of **Web Development**, **App Development**, **Cloud Technologies** and **ML Applications**. I focus on putting an emphasis on the core fundamentals and like to pick up skills in a bottoms up approach, focusing on hands-on execution and experimentations.
 
@@ -107,3 +109,16 @@ Docker has been used in Professional Environment, while Blender and Unity were u
 I am certified in Open Source Software Development, Linux and Git by the Linux Foundation. I have been using the technologies since college time, and have a preferred tooling of Ubuntu, Git and VSCode for most software development use cases.
 
 
+# Soft Skills
+
+## Main Skillsets
+
+|Intra Personal| Inter Personal  |
+|:--:|:--:|
+| Observational Skills | Open-mindedness|
+| Critical Thinking| Adaptability |
+| Passionate about Technology| Leadership
+| Ideas on Cross Applications of Tech | Attentive Listening|
+| Relentless Upskilling | Communication |
+| Quick Ideations | Team Collaboration | 
+| Accountability | Ideation Development
