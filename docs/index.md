@@ -8,7 +8,7 @@
 
 Hello, I'm **Nevin Koshy Daniel**. I have completed my _B.Tech  in Computer Science and Engineering_.  I am a Tech‑savvy individual with experience in community engagement through student volunteering initiatives for professional societies, as well as worked as a Backend Developer in a professional capability.
 
-This is a practise project to get familiar with Sphinx Engine. To know more about me, you can check out the table of content given below
+To know more about me, you can check out the table of content given below
 
 
 ```{toctree}

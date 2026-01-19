@@ -1,12 +1,12 @@
 ﻿# SKILLSET
 
-# Technical Skills
+## Technical Skills
 
 Hi! I'm a person with a **variety** of technical and  technological skills. I have a bit of experience in various technical stacks, mainly in the domain of **Web Development**, **App Development**, **Cloud Technologies** and **ML Applications**. I focus on putting an emphasis on the core fundamentals and like to pick up skills in a bottoms up approach, focusing on hands-on execution and experimentations.
 
-## Languages
+### Languages
 
-### Highly Familiar
+#### Highly Familiar
 I am well versed in the syntactical nuances of the these languages, and may require a google search once in a while while working with them
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -30,7 +30,7 @@ I started getting familiar with the SQL as I was picking up web development, and
 ![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
 I got familiar with YAML as I was picking up Flutter, and got more versed in it using Docker and Azure Templating.
 
-### Can Hack My Way Through
+#### Can Hack My Way Through
 I am able to easily comprehended these languages, and hack my way through them, albeit using a quick google search at most times.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -43,9 +43,9 @@ I am picking up the language as a part time, and would love to extend more on it
 I loved the simplistic syntax of Go, and the capabilities it possess. I am currently learning the language.
 
 
-## Frameworks & Technologies
+### Frameworks & Technologies
 
-### Cloud Providers
+#### Cloud Providers
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=00F)
 I have completed an internship that was a combined offering by the Ministry of Education of India and Microsoft.  I have excellent familiarity with the domain, and the technology stack, and have used it for a host of projects.
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-Cloud)
@@ -57,8 +57,8 @@ Entry level Familiarity with the technology.
 
 ### Databases
 
-### SQL
-![Postgres-SQL](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+#### SQL
+![Postgres-SQL]his is a practise project to get familiar with Sphinx Engine. (https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 I had learned to use this DB as part of academia, and have used the technology in a professional capacity as well. 
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 I have been tinkering with SQLite for various personal projects, and various hackathon solutions. 
@@ -68,7 +68,7 @@ I have been tinkering with SQLite for various personal projects, and various hac
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 I have been using MongoDB since college time and have been using it in a professional capability.
 
-#### Backend as a Service
+### Backend as a Service
 
 ![Firebase](https://img.shields.io/badge/-Firestore-000?&logo=Firebase)
 Firebase is one of my technologies I picked up as part of Flutter Development, and have been using Firestore a lot.
@@ -109,9 +109,9 @@ Docker has been used in Professional Environment, while Blender and Unity were u
 I am certified in Open Source Software Development, Linux and Git by the Linux Foundation. I have been using the technologies since college time, and have a preferred tooling of Ubuntu, Git and VSCode for most software development use cases.
 
 
-# Soft Skills
+## Soft Skills
 
-## Main Skillsets
+### Main Skillsets
 
 |Intra Personal| Inter Personal  |
 |:--:|:--:|
